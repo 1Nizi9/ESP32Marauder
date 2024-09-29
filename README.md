@@ -24,7 +24,7 @@
 ## Getting Started
 Download the [latest release](https://github.com/1nizi9/ESP32Marauder/releases/tag/v1.0.0) of the firmware.  
 
-Check out the project [wiki](https://github.com/1nizi9/ESP32Marauder/wiki) for a full overview of the ESP32 Marauder
+Check out the project [wiki](https://github.com/justcallmekoko/ESP32Marauder/wiki) for a full overview of the ESP32 Marauder
 
 # For Sale Now
 You can buy the ESP32 Marauder using [this link](https://www.tindie.com/products/justcallmekoko/esp32-marauder/)
