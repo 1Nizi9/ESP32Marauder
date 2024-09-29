@@ -9,8 +9,8 @@
   <b>A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32</b>
   <br><br>
   <a href="https://github.com/justcallmekoko/ESP32Marauder/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/mashape/apistatus.svg"></a>
-  <a href="https://gitter.im/justcallmekoko/ESP32Marauder"><img alt="Gitter" src="https://badges.gitter.im/justcallmekoko/ESP32Marauder.png"/></a>
-  <a href="https://github.com/justcallmekoko/ESP32Marauder/releases/latest"><img src="https://img.shields.io/github/downloads/justcallmekoko/ESP32Marauder/total" alt="Downloads"/></a>
+  <a href="https://discord.gg/UJCK8Q52sr"><img alt="Discord" src="https://badges.gitter.im/justcallmekoko/ESP32Marauder.png"/></a>
+  <a href="https://github.com/1nizi9/ESP32Marauder/releases/tag/v1.0.0"><img src="https://img.shields.io/github/downloads/justcallmekoko/ESP32Marauder/total" alt="Downloads"/></a>
   <br>
   <a href="https://www.instagram.com/f82.kerem"><img src="https://img.shields.io/badge/Follow%20Me-Instagram-orange" alt="Instagram"/></a>
   <br><br>
